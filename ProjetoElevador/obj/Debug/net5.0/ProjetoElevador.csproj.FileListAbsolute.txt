@@ -1,0 +1,16 @@
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.exe
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.deps.json
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.json
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.dev.json
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.dll
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ref\ProjetoElevador.dll
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.pdb
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.AssemblyReference.cache
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfoInputs.cache
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfo.cs
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.dll
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ref\ProjetoElevador.dll
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.pdb
+C:\Users\Fabricio Mady\Desktop\Jornada Microsoft\ProjetoElevador\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.genruntimeconfig.cache
